@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "600199976249",
+    "firebase_url": "https://volunteer-management2405.firebaseio.com",
+    "project_id": "volunteer-management2405",
+    "storage_bucket": "volunteer-management2405.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600199976249:android:3931f26f5942762c",
+        "android_client_info": {
+          "package_name": "com.asus.asus.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600199976249-dc4cv5aus90f57njiktplpt25go0hgct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCozgaVZQwuHqz3A7wmOnh9cpFupWipPMI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
